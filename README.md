@@ -1,5 +1,5 @@
 # svg-shikyotaira
-SVG, HTML, CSS for my IGN logo, intended for gaming media platforms like [Twitch](http://www.twitch.tv/). "Shikyotaira" font based off Final Fantasy font type. Crossbow and bat are symbols of League of Legend's [Vayne](http://leagueoflegends.wikia.com/wiki/Vayne). [shikyotaira](na.op.gg/summoner/userName=shikyotaira) is my IGN for League of Legends.
+SVG, HTML, CSS for my IGN logo, intended for gaming media platforms like [Twitch](http://www.twitch.tv/). "Shikyotaira" font based off Final Fantasy font type. Crossbow and bat are symbols of League of Legend's [Vayne](http://leagueoflegends.wikia.com/wiki/Vayne). [shikyotaira](http://na.op.gg/summoner/userName=shikyotaira) is my IGN for League of Legends.
 
 
 ### Warnings
